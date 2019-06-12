@@ -16,6 +16,7 @@ import json
 import logging
 import os
 import struct
+import bar 
 
 import mxnet as mx
 import numpy as np
